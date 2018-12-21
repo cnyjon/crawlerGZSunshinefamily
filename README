@@ -1,0 +1,4 @@
+请用Python3然后安装下列包
+pip install schedule
+pip install requests
+pip install beautifulsoup4
